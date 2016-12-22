@@ -1,3 +1,6 @@
 [submodule "geometry"]
 	path = geometry
 	url = https://github.com/mapbox/geometry.hpp
+[submodule "variant"]
+	path = variant
+	url = https://github.com/mapbox/variant
